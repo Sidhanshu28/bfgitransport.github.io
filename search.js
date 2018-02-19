@@ -2,304 +2,304 @@ function Searchit()
 {
 number = document.form1.searchh.value;
 var str1 = new String("Route No.1");
-var URL1 = "1.html";
+var URL1 = "busroutes/1.html";
 
 var str2 = new String("Route No.2");
-var URL2 = "2.html";
+var URL2 = "busroutes/2.html";
 
 var str3 = new String("Route No.3");
-var URL3 = "3.html";
+var URL3 = "busroutes/3.html";
 
 var str4 = new String("Route No.4");
-var URL4 = "4.html";
+var URL4 = "busroutes/4.html";
 
 var str5 = new String("Route No.5");
-var URL5 = "5.html";
+var URL5 = "busroutes/5.html";
 
 var str6 = new String("Route No.6");
-var URL6 = "6.html";
+var URL6 = "busroutes/6.html";
 
 var str7 = new String("Route No.7");
-var URL7 = "7.html";
+var URL7 = "busroutes/7.html";
 
 var str8 = new String("Route No.8");
-var URL8 = "8.html";
+var URL8 = "busroutes/8.html";
 
 var str9 = new String("Route No.9");
-var URL9 = "9.html";
+var URL9 = "busroutes/9.html";
 
 var str10 = new String("Route No.10");
-var URL10 = "10.html";
+var URL10 = "busroutes/10.html";
 
 var str11 = new String("Route No.11");
-var URL11 = "11.html";
+var URL11 = "busroutes/11.html";
 
 var str12 = new String("Route No.12");
-var URL12 = "12.html";
+var URL12 = "busroutes/12.html";
 
 var str13 = new String("Route No.13");
-var URL13 = "13.html";
+var URL13 = "busroutes/13.html";
 
 var str14 = new String("Route No.14");
-var URL14 = "14.html";
+var URL14 = "busroutes/14.html";
 
 var str15 = new String("Route No.15");
-var URL15 = "15.html";
+var URL15 = "busroutes/15.html";
 
 var str16 = new String("Route No.16");
-var URL16 = "16.html";
+var URL16 = "busroutes/16.html";
 
 var str17 = new String("Route No.17");
-var URL17 = "17.html";
+var URL17 = "busroutes/17.html";
 
 var str18 = new String("Route No.18");
-var URL18 = "18.html";
+var URL18 = "busroutes/18.html";
 
 var str19 = new String("Route No.19");
-var URL19 = "19.html";
+var URL19 = "busroutes/19.html";
 
 var str20 = new String("Route No.20");
-var URL20 = "20.html";
+var URL20 = "busroutes/20.html";
 
 var str21 = new String("Route No.21");
-var URL21 = "21.html";
+var URL21 = "busroutes/21.html";
 
 var str22 = new String("Route No.22");
-var URL22 = "22.html";
+var URL22 = "busroutes/22.html";
 
 var str23 = new String("Route No.23");
-var URL23 = "23.html";
+var URL23 = "busroutes/23.html";
 
 var str24 = new String("Route No.24");
-var URL24 = "24.html";
+var URL24 = "busroutes/24.html";
 
 var str25 = new String("Route No.25");
-var URL25 = "25.html";
+var URL25 = "busroutes/25.html";
 
 var str26 = new String("Route No.26");
-var URL26 = "26.html";
+var URL26 = "busroutes/26.html";
 
 var str27 = new String("Route No.27");
-var URL27 = "27.html";
+var URL27 = "busroutes/27.html";
 
 var str28 = new String("Route No.28");
-var URL28 = "28.html";
+var URL28 = "busroutes/28.html";
 
 var str29 = new String("Route No.29");
-var URL29 = "29.html";
+var URL29 = "busroutes/29.html";
 
 var str30 = new String("Route No.30");
-var URL30 = "30.html";
+var URL30 = "busroutes/30.html";
 
 var str31 = new String("Route No.31");
-var URL31 = "31.html";
+var URL31 = "busroutes/31.html";
 
 var str32 = new String("Route No.32");
-var URL32 = "32.html";
+var URL32 = "busroutes/32.html";
 
 var str33 = new String("Route No.33");
-var URL33 = "33.html";
+var URL33 = "busroutes/33.html";
 
 var str34 = new String("Route No.34");
-var URL34 = "34.html";
+var URL34 = "busroutes/34.html";
 
 var str35 = new String("Route No.35");
-var URL35 = "35.html";
+var URL35 = "busroutes/35.html";
 
 var str36 = new String("Route No.36");
-var URL36 = "36.html";
+var URL36 = "busroutes/36.html";
 
 var str37 = new String("Route No.37");
-var URL37 = "37.html";
+var URL37 = "busroutes/37.html";
 
 var str38 = new String("Route No.38");
-var URL38 = "38.html";
+var URL38 = "busroutes/38.html";
 
 var str39 = new String("Route No.39");
-var URL39 = "39.html";
+var URL39 = "busroutes/39.html";
 
 var str40 = new String("Route No.40");
-var URL40 = "40.html";
+var URL40 = "busroutes/40.html";
 
 var str41 = new String("Route No.41");
-var URL41 = "41.html";
+var URL41 = "busroutes/41.html";
 
 var str42 = new String("Route No.42");
-var URL42 = "42.html";
+var URL42 = "busroutes/42.html";
 
 var str43 = new String("Route No.43");
-var URL43 = "43.html";
+var URL43 = "busroutes/43.html";
 
 var str44 = new String("Route No.44");
-var URL44 = "44.html";
+var URL44 = "busroutes/44.html";
 
 var str45 = new String("Route No.45");
-var URL45 = "45.html";
+var URL45 = "busroutes/45.html";
 
 var str46 = new String("Route No.46");
-var URL46 = "46.html";
+var URL46 = "busroutes/46.html";
 
 var str47 = new String("Route No.47");
-var URL47 = "47.html";
+var URL47 = "busroutes/47.html";
 
 var str48 = new String("Route No.48");
-var URL48 = "48.html";
+var URL48 = "busroutes/48.html";
 
 var str49 = new String("Route No.49");
-var URL49 = "49.html";
+var URL49 = "busroutes/49.html";
 
 var str50 = new String("Route No.50");
-var URL50 = "50.html";
+var URL50 = "busroutes/50.html";
 
 var str51 = new String("Route No.51");
-var URL51 = "51.html";
+var URL51 = "busroutes/51.html";
 
 var str52 = new String("Route No.52");
-var URL52 = "52.html";
+var URL52 = "busroutes/52.html";
 
 var str53 = new String("Route No.53");
-var URL53 = "53.html";
+var URL53 = "busroutes/53.html";
 
 var str54 = new String("Route No.54");
-var URL54 = "54.html";
+var URL54 = "busroutes/54.html";
 
 var str55 = new String("Route No.55");
-var URL55 = "55.html";
+var URL55 = "busroutes/55.html";
 
 var str56 = new String("Route No.56");
-var URL56 = "56.html";
+var URL56 = "busroutes/56.html";
 
 var str57 = new String("Route No.57");
-var URL57 = "57.html";
+var URL57 = "busroutes/57.html";
 
 var str58 = new String("Route No.58");
-var URL58 = "58.html";
+var URL58 = "busroutes/58.html";
 
 var str59 = new String("Route No.59");
-var URL59 = "59.html";
+var URL59 = "busroutes/59.html";
 
 var str60 = new String("Route No.60");
-var URL60 = "60.html";
+var URL60 = "busroutes/60.html";
 
 var str61 = new String("Route No.61");
-var URL61 = "61.html";
+var URL61 = "busroutes/61.html";
 
 var str62 = new String("Route No.62");
-var URL62 = "62.html";
+var URL62 = "busroutes/62.html";
 
 var str63 = new String("Route No.63");
-var URL63 = "63.html";
+var URL63 = "busroutes/63.html";
 
 var str64 = new String("Route No.64");
-var URL64 = "64.html";
+var URL64 = "busroutes/64.html";
 
 var str65 = new String("Route No.65");
-var URL65 = "65.html";
+var URL65 = "busroutes/65.html";
 
 var str66 = new String("Route No.66");
-var URL66 = "66.html";
+var URL66 = "busroutes/66.html";
 
 var str67 = new String("Route No.67");
-var URL67 = "67.html";
+var URL67 = "busroutes/67.html";
 
 var str68 = new String("Route No.68");
-var URL68 = "68.html";
+var URL68 = "busroutes/68.html";
 
 var str69 = new String("Route No.69");
-var URL69 = "69.html";
+var URL69 = "busroutes/69.html";
 
 var str70 = new String("Route No.70");
-var URL70 = "70.html";
+var URL70 = "busroutes/70.html";
 
 var str71 = new String("Route No.71");
-var URL71 = "71.html";
+var URL71 = "busroutes/71.html";
 
 var str72 = new String("Route No.72");
-var URL72 = "72.html";
+var URL72 = "busroutes/72.html";
 
 var str73 = new String("Route No.73");
-var URL73 = "73.html";
+var URL73 = "busroutes/73.html";
 
 var str74 = new String("Route No.74");
-var URL74 = "74.html";
+var URL74 = "busroutes/74.html";
 
 var str75 = new String("Route No.75");
-var URL75 = "75.html";
+var URL75 = "busroutes/75.html";
 
 var str76 = new String("Route No.76");
-var URL76 = "76.html";
+var URL76 = "busroutes/76.html";
 
 var str77 = new String("Route No.77");
-var URL77 = "77.html";
+var URL77 = "busroutes/77.html";
 
 var str78 = new String("Route No.78");
-var URL78 = "78.html";
+var URL78 = "busroutes/78.html";
 
 var str79 = new String("Route No.79");
-var URL79 = "79.html";
+var URL79 = "busroutes/79.html";
 
 var str80 = new String("Route No.80");
-var URL80 = "80.html";
+var URL80 = "busroutes/80.html";
 
 var str81 = new String("Route No.81");
-var URL81 = "81.html";
+var URL81 = "busroutes/81.html";
 
 var str82 = new String("Route No.82");
-var URL82 = "82.html";
+var URL82 = "busroutes/82.html";
 
 var str83 = new String("Route No.83");
-var URL83 = "83.html";
+var URL83 = "busroutes/83.html";
 
 var str84 = new String("Route No.84");
-var URL84 = "84.html";
+var URL84 = "busroutes/84.html";
 
 var str85 = new String("Route No.85");
-var URL85 = "85.html";
+var URL85 = "busroutes/85.html";
 
 var str86 = new String("Route No.86");
-var URL86 = "86.html";
+var URL86 = "busroutes/86.html";
 
 var str87 = new String("Route No.87");
-var URL87 = "87.html";
+var URL87 = "busroutes/87.html";
 
 var str88 = new String("Route No.88");
-var URL88 = "88.html";
+var URL88 = "busroutes/88.html";
 
 var str89 = new String("Route No.89");
-var URL89 = "89.html";
+var URL89 = "busroutes/89.html";
 
 var str90 = new String("Route No.90");
-var URL90 = "90.html";
+var URL90 = "busroutes/90.html";
 
 var str91 = new String("Route No.91");
-var URL91 = "91.html";
+var URL91 = "busroutes/91.html";
 
 var str92 = new String("Route No.92");
-var URL92 = "92.html";
+var URL92 = "busroutes/92.html";
 
 var str93 = new String("Route No.93");
-var URL93 = "93.html";
+var URL93 = "busroutes/93.html";
 
 var str94 = new String("Route No.94");
-var URL94 = "94.html";
+var URL94 = "busroutes/94.html";
 
 var str95 = new String("Route No.95");
-var URL95 = "95.html";
+var URL95 = "busroutes/95.html";
 
 var str96 = new String("Route No.96");
-var URL96 = "96.html";
+var URL96 = "busroutes/96.html";
 
 var str97 = new String("Route No.97");
-var URL97 = "97.html";
+var URL97 = "busroutes/97.html";
 
 var str98 = new String("Route No.98");
-var URL98 = "98.html";
+var URL98 = "busroutes/98.html";
 
 var str99 = new String("Route No.99");
-var URL99 = "99.html";
+var URL99 = "busroutes/99.html";
 
 var str100 = new String("Route No.100");
-var URL100 = "100.html";
+var URL100 = "busroutes/100.html";
   
 switch (number)  
 {  
